@@ -6,12 +6,13 @@ h1{
 }
 h2{background-color: darkgoldenrod;
 color:rgb(22, 52, 107);
-border-radius: 9px;
+border-radius: 25%;
 text-align: center;
 font-style: normal}
 p{background-color: coral;
 color: blue;
-text-align: center;}
+text-align: center;
+font-size: larger;}
 .i{border: 5px dashed rgb(0, 162, 255);
     border-radius: 5px;
     letter-spacing: 1cm;
@@ -20,15 +21,16 @@ text-decoration: wavy;
 text-align: center;
 font:bold;
 cursor:none;}
-.runes{    object-fit: scale-down;
-    max-width:auto;
-max-height:auto;}
+.runes{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%}
 .approval{display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 border-image:dashed gold;
-}
+cursor:all-scroll;}
 .Phone{text-align: left;
 color: bisque;
 background-color: darkcyan;}
@@ -36,3 +38,10 @@ h3{text-align: center;
     border-radius: 50%;
 background-color: orangered;
 color: rgb(67, 219, 224) ;}
+body{cursor: grabbing;
+background-image: url("https://previews.123rf.com/images/tartila/tartila1808/tartila180800002/111905186-mystical-viking-runes-ancient-pagan-talisman-norse-rune-symbol-amulet-of-odin-magic-helm-for-witchcr.jpg");}
+ul{text-underline-position: below;}
+.li{text-underline-position: below;
+
+background-blend-mode: lighten;
+color: rgb(26, 26, 3);}
