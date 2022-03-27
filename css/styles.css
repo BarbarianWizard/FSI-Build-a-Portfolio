@@ -19,7 +19,13 @@ text-decoration: wavy;
 text-align: center;
 font:bold;
 cursor:none;}
-.approval{justify-content: center;
+.runes{    object-fit: scale-down;
+    max-width:auto;
+max-height:auto;}
+.approval{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 border-image:dashed gold;
 }
 .Phone{text-align: left;
