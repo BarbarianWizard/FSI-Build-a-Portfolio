@@ -1,0 +1,27 @@
+h1{
+    background-color: darkorange;
+    color: darkblue;
+    text-align: center;
+}
+h2{background-color: darkgoldenrod;
+color:rgb(22, 52, 107);
+border-radius: 9px;
+text-align: center;
+font-style: normal}
+p{background-color: coral;
+color: blue;
+text-align: center;}
+.i{border: 5px dashed rgb(0, 162, 255);
+    border-radius: 5px;
+    letter-spacing: 1cm;
+font-size: xx-large;
+text-decoration: wavy;
+text-align: center;
+font:bold;
+cursor:none;}
+.approval{justify-content: center;
+border-image:dashed gold;
+}
+.Phone{text-align: left;
+color: bisque;
+background-color: darkcyan;}
