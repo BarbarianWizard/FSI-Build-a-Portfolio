@@ -43,5 +43,7 @@ background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5
 ul{text-underline-position: below;}
 .li{text-underline-position: below;
 
-background-blend-mode: lighten;
-color: rgb(26, 26, 3);}
+background-color: aquamarine;
+border-radius: 2mm;
+color: rgb(200, 84, 236);}
+.fake{background-color: black;}
